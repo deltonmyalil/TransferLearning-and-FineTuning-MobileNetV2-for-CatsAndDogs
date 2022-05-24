@@ -330,7 +330,7 @@ tblib==1.6.0
 tensor2tensor==1.14.1
 tensorboard==2.1.0
 tensorboardcolab==0.0.22
-tensorflow==2.1.0
+tensorflow==2.6.4
 tensorflow-datasets==2.0.0
 tensorflow-estimator==2.1.0
 tensorflow-gan==2.0.0
